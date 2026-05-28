@@ -1,0 +1,8 @@
+:root {
+    --background-base-lowest: hsl(120deg 100 87.5%) ;
+    /* i fucking hate hsl its like hsv if it was cunty */
+}
+[class^="appMount"], [class*="appMount"] {
+    opacity:1;
+    mix-blend-mode:multiply;
+}
